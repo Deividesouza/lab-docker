@@ -1,0 +1,14 @@
+api:
+  dashboard: true
+  insecure: true  # Permite acesso sem autenticação, apenas em ambiente de lab
+
+providers:
+  docker:
+    exposedByDefault: false  # segurança: só expõe containers com label traefik.enable=true
+  file:
+    filename: /etc/traefik/dynamic.yml
+    watch: true
+
+entryPoints:
+  web:
+    address: ":80"
