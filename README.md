@@ -35,13 +35,13 @@ Repositório criado para estudo e prática de **DevOps**, abordando desde os fun
 ## Para iniciar qualquer laboratório:
 docker compose up -d
 
-##Para visualizar logs de um serviço específico:
+## Para visualizar logs de um serviço específico:
 docker logs <nome-do-container>
 
-##Para encerrar o ambiente:
+## Para encerrar o ambiente:
 docker compose down
 
-##🧠 Conceitos Trabalhados
+## Conceitos Trabalhados
 
 - Imagens e containers Docker
 
