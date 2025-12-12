@@ -14,19 +14,19 @@ Repositório criado para estudo e prática de **DevOps**, abordando desde os fun
 | **Lab 4** | Makefile e Pipeline | Automação de build, tag e push de imagens. |
 | **Lab 5** | Nginx Proxy | Configuração de proxy reverso com Nginx para múltiplas aplicações. |
 | **Lab 6** | Traefik Proxy | Implementação de proxy dinâmico com Traefik e dashboard. |
-
+| **Lab 7** | Docker Compose Avançado — Redes e Volumes |
+| **Lab 8** | Kubernetes (K3s/MicroK8s) — Deploy e Services |
+| **Lab 9** | Terraform — Provisionamento de Infraestrutura |
 ---
 
 ## 🔜 Próximos Labs
 
 | Lab | Tema Planejado |
 |-----|----------------|
-| **Lab 7** | Docker Compose Avançado — Redes e Volumes |
-| **Lab 8** | Kubernetes (K3s/MicroK8s) — Deploy e Services |
-| **Lab 9** | Terraform — Provisionamento de Infraestrutura |
+
+
 | **Lab 10** | Ansible — Automação de Configuração |
-| **Lab 11** | CI/CD com GitHub Actions |
-| **Lab 12** | Observabilidade — Prometheus e Grafana |
+
 
 ---
 
